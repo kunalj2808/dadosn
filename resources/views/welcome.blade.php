@@ -38,7 +38,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
         <a class="navbar-brand" href="/">
-          <img class="img-fluid" src="./assets/img/logo/logo3.png" alt="" />
+          <img class="img-fluid" src="./assets/img/logo/logo34.png" alt="" />
           {{-- <img
             src="./assets/img/logo/logo-bg1.png"
             alt="GQL - transport & logistics"
@@ -219,9 +219,8 @@
               <div class="card-body">
                 <h5 class="card-title">ROAD TRANSPORT</h5>
                 <p class="card-text mt-4">
-                  through our fleet of over 1,000 trucks<br>
-                   and trailers,we can deliver<br>
-                    transporation across the country
+                  We have a pool of 8000+ vetted
+                  <br> carriers serving across US & Canada
                 </p>
               </div>
             
@@ -1075,30 +1074,8 @@
         <div class="container">
           <div class="row">
             <div class="col-md-4 p-3">
-              <img class="img-fluid" src="./assets/img/logo/logo3.png" alt="" />
-              <p>
-                Desires to obtain pain of itself, because it is pain, but
-                occasionally circumstances.
-              </p>
-              <form action="" method="post" class="footer-from">
-                <div class="input-group mb-3">
-                  <input
-                    type="text"
-                    class="form-control p-3"
-                    placeholder="Email Address"
-                    aria-label="Email Address"
-                    aria-describedby="button-addon2"
-                  />
-
-                  <button
-                    type="button"
-                    id="button-addon2"
-                    class="btn primary-btn"
-                  >
-                    Go
-                  </button>
-                </div>
-              </form>
+              <img class="img-fluid" src="./assets/img/logo/logo34.png" alt="" />
+            
              
             </div>
             <div class="col-md-3 offset-lg-1">
@@ -1122,11 +1099,7 @@
                   <strong>Address</strong>
                   <p>Stockton CA, 95219</p>
                 </li>
-                <li>
-                  <i class="fa-solid fa-clock"></i>
-                  <strong>Mon - Sat</strong>
-                  <p>8.00am to 9.00pm (Sun: Closed)</p>
-                </li>
+                
               </ul>
             </div>
           </div>

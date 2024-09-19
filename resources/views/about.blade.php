@@ -38,7 +38,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
         <a class="navbar-brand" href="/">
-          <img class="img-fluid" src="./assets/img/logo/logo3.png" alt="" />
+          <img class="img-fluid" src="./assets/img/logo/logo34.png" alt="" />
           {{-- <img
             src="./assets/img/logo/logo-bg1.png"
             alt="GQL - transport & logistics"
@@ -138,9 +138,8 @@
               <div class="card-body">
                 <h5 class="card-title">ROAD TRANSPORT</h5>
                 <p class="card-text mt-4">
-                  through our fleet of over 1,000 trucks<br>
-                  and trailers,we can deliver<br>
-                   transporation across the country
+                  We have a pool of 8000+ vetted
+                  <br> carriers serving across US & Canada
                 </p>
               </div>
               {{-- <div class="img-box">
@@ -295,9 +294,8 @@
         <div class="sec-title text-center">
           <h3 class="sub-title">HOW WE WORK</h3>
           <h2>
-            We aim to contribute well to
-            <br />
-            your company
+           OUR SERVICES
+            
           </h2>
         </div>
 
@@ -313,10 +311,9 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Replenishment and Picking</h4>
+                  <h4>DRAYAGE</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    As a freight forwarder, are you frustrated with the hassles of relying on freight brokers for your logistics needs? Inconsistent rates, delivery setbacks, and lack of transparency can complicate your operations.
                   </p>
                 </div>
                
@@ -340,10 +337,9 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Warehousing Operation</h4>
+                  <h4>OTR</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    What if you could simplify the process? Our team provides Drayage, Warehousing, Trans-loading, and OTR services, prioritizing streamlined operations and transparent communication for seamless logistics.
                   </p>
                 </div>
                
@@ -367,10 +363,9 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Packaging and Distribution</h4>
+                  <h4>WAREHOUSING</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    We ensure your cargo stays safe, properly tracked, and meticulously managed with our strategic solutions. Our network of warehouses across India offers flexible storage capacities to meet all your logistics needs.
                   </p>
                 </div>
                
@@ -394,10 +389,11 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Transportation Process</h4>
+                  <h4>TRANSLOADING</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    Transloading is the process of moving goods between different transportation methods during their journey, ensuring efficient transfer and timely delivery to their final destination.
+                    <br>
+                    .
                   </p>
                 </div>
                
@@ -738,32 +734,11 @@
             <div class="col-md-4 p-3">
               <img
                 class="img-fluid"
-                src="./assets/img/logo/logo3.png"
+                src="./assets/img/logo/logo34.png"
                 alt=""
               />
-              <p>
-                Desires to obtain pain of itself, because it is pain, but
-                occasionally circumstances.
-              </p>
-              <form action="" method="post" class="footer-from">
-                <div class="input-group mb-3">
-                  <input
-                    type="text"
-                    class="form-control p-3"
-                    placeholder="Email Address"
-                    aria-label="Email Address"
-                    aria-describedby="button-addon2"
-                  />
-
-                  <button
-                    type="button"
-                    id="button-addon2"
-                    class="btn primary-btn"
-                  >
-                    Go
-                  </button>
-                </div>
-              </form>
+              
+             
               
             </div>
             <div class="col-md-3 offset-lg-1">
@@ -787,11 +762,7 @@
                   <strong>Address</strong>
                   <p>Stockton CA, 95219</p>
                 </li>
-                <li>
-                  <i class="fa-solid fa-clock"></i>
-                  <strong>Mon - Sat</strong>
-                  <p>8.00am to 9.00pm (Sun: Closed)</p>
-                </li>
+                
               </ul>
             </div>
           </div>
