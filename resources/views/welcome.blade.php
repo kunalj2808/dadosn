@@ -270,7 +270,7 @@
                 </div>
 
                 <p class="mb-3">
-                  Competently implement efficient e-commerce without cross-unit growth strategies. 
+                   
                 </p>
                 <blockquote class="blockquote mb-4">
                   <p>
