@@ -38,11 +38,12 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
         <a class="navbar-brand" href="index">
-          <img
+          <img class="img-fluid" src="./assets/img/logo/logo3.png" alt="" />
+          {{-- <img
             src="./assets/img/logo/logo-bg1.png"
-            alt="logixs - transport & logistics"
-            title="logixs - transport & logistics"
-          />
+            alt="GQL - transport & logistics"
+            title="GQL - transport & logistics"
+          /> --}}
         </a>
         <button
           class="navbar-toggler"
@@ -90,7 +91,7 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-              We’re Global <br />Logistics Partners
+              GQL are Global <br />Logistics Partners
             </h2>
             <p
               class="wow fadeInUp"
@@ -126,7 +127,7 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-              We’re Global <br />Logistics Partners
+              GQL are Global <br />Logistics Partners
             </h2>
             <p
               class="wow fadeInUp"
@@ -162,7 +163,7 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-              We’re Global <br />Logistics Partners
+              GQL are Global <br />Logistics Partners
             </h2>
             <p
               class="wow fadeInUp"
@@ -222,22 +223,17 @@
               style="visibility: visible; animation-name: fadeInUp"
             >
               <div class="card-icon">
-                <i class="fa-solid fa-plane"></i>
+                <i class="fa-solid fa-chain"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Air Freight</h5>
+                <h5 class="card-title fw-bold">SUPPLY CHAIN MNGT</h5>
                 <p class="card-text mt-4">
-                  Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                  elit sed do eiusmod.
+                  Dadson logistic provides our client with<br>
+                  customized and end to end logistic<br>
+                   solutions and services
                 </p>
               </div>
-              <div class="img-box">
-                <img
-                  src="./assets/img/service/top-service-1.jpg"
-                  class="card-img-bottom"
-                  alt="..."
-                />
-              </div>
+           
               <!-- single item end  -->
             </div>
           </div>
@@ -250,22 +246,17 @@
               style="visibility: visible; animation-name: fadeInUp"
             >
               <div class="card-icon">
-                <i class="fa-solid fa-ship"></i>
+                <i class="fa-solid fa-road"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Ocean Freight</h5>
+                <h5 class="card-title">ROAD TRANSPORT</h5>
                 <p class="card-text mt-4">
-                  Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                  elit sed do eiusmod.
+                  through our fleet of over 1,000 trucks<br>
+                   and trailers,we can deliver<br>
+                    transporation across the country
                 </p>
               </div>
-              <div class="img-box">
-                <img
-                  src="./assets/img/service/top-service-2.jpg"
-                  class="card-img-bottom"
-                  alt="..."
-                />
-              </div>
+            
             </div>
             <!-- single item end  -->
           </div>
@@ -282,22 +273,15 @@
               "
             >
               <div class="card-icon">
-                <i class="fa-solid fa-truck"></i>
+                <i class="fa-solid fa-store"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Road Transport</h5>
+                <h5 class="card-title">WAREHOUSE STORAGE</h5>
                 <p class="card-text mt-4">
-                  Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                  elit sed do eiusmod.
+                 we provide ware house services to client<br> as a standalone service as well as part of<br> our integrated logistic solutions.
                 </p>
               </div>
-              <div class="img-box">
-                <img
-                  src="./assets/img/service/top-service-3.jpg"
-                  class="card-img-bottom"
-                  alt="..."
-                />
-              </div>
+             
             </div>
             <!-- single item end  -->
           </div>
@@ -320,7 +304,7 @@
             <div class="about-content">
               <div class="about-info p-5">
                 <div class="sec-title">
-                  <h3 class="sub-title">WELCOME TO LOGIXS</h3>
+                  <h3 class="sub-title">WELCOME TO GQL</h3>
                   <h2>Providing full range of transportation</h2>
                 </div>
 
@@ -333,7 +317,7 @@
                 <blockquote class="blockquote mb-4">
                   <p>
                     You can simplifying your freight & logistics needs with a
-                    personal approach on logixs company.
+                    personal approach on GQL company.
                   </p>
                 </blockquote>
 
@@ -898,28 +882,10 @@
                   <h2>Things you need to know and we know your’s</h2>
                 </div>
                 <!-- single faq item start  -->
-                <div class="faq-block">
-                  <div class="faq-content">
-                    <i class="faq-icon fa-solid fa-arrow-right"></i>
-                    <h4>Donec Quis felis Commodo</h4>
-                    <p>
-                      Lorem ipsum is simply free text dolor sit amet, passage of
-                      consectetur notted
-                    </p>
-                  </div>
-                </div>
+                
                 <!-- single faq item end  -->
                 <!-- single faq item start  -->
-                <div class="faq-block">
-                  <div class="faq-content">
-                    <i class="faq-icon fa-solid fa-arrow-right"></i>
-                    <h4>Donec Quis felis Commodo</h4>
-                    <p>
-                      Lorem ipsum is simply free text dolor sit amet, passage of
-                      consectetur notted
-                    </p>
-                  </div>
-                </div>
+               
                 <!-- single faq item end  -->
               </div>
             </div>
@@ -1351,17 +1317,17 @@
                 <li>
                   <i class="fa-solid fa-square-phone-flip"></i>
                   <strong>Phone</strong>
-                  <a href="tel:+9999999999">+9999999999</a>
+                  <a href="tel:+9999999999">+1 (350) 217-2291</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-envelope"></i>
                   <strong>Email</strong>
-                  <a href="mailto:example@gmail.com">example@gmail.com</a>
+                  <a href="mailto:example@gmail.com">Admin@thegql.com</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-map-location"></i>
                   <strong>Address</strong>
-                  <p>USA Transport Company</p>
+                  <p>Stockton CA, 95219</p>
                 </li>
                 <li>
                   <i class="fa-solid fa-clock"></i>
@@ -1377,7 +1343,7 @@
       <div class="footer-bottom text-center">
         <div class="container">
           <div class="copyright-text">
-            <p>© Copyright 2024 by <a href="index.html">GQL</a></p>
+            <p>© Copyright 2024 by <a href="/">GQL</a></p>
           </div>
         </div>
       </div>

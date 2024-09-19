@@ -9,7 +9,7 @@
       href="./assets/img/logo/logo-icon.png"
       type="image/x-icon"
     />
-    <title>logixs - transport & logistics</title>
+    <title>GQL - transport & logistics</title>
     <!-- font-awesome/6.2.1  -->
     <link
       rel="stylesheet"
@@ -37,12 +37,13 @@
     <!-- navbar section start -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="index.html">
-          <img
+        <a class="navbar-brand" href="/">
+          <img class="img-fluid" src="./assets/img/logo/logo3.png" alt="" />
+          {{-- <img
             src="./assets/img/logo/logo-bg1.png"
-            alt="logixs - transport & logistics"
-            title="logixs - transport & logistics"
-          />
+            alt="GQL - transport & logistics"
+            title="GQL - transport & logistics"
+          /> --}}
         </a>
         <button
           class="navbar-toggler"
@@ -81,7 +82,7 @@
           <h1>Contact Us</h1>
           <nav style="--bs-breadcrumb-divider: '>'" aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+              <li class="breadcrumb-item"><a href="/">Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">
                 Library
               </li>
@@ -306,17 +307,17 @@
                 <li>
                   <i class="fa-solid fa-square-phone-flip"></i>
                   <strong>Phone</strong>
-                  <a href="tel:+99999999999">+999999999</a>
+                  <a href="tel:+99999999999">+1 (350) 217-2291</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-envelope"></i>
                   <strong>Email</strong>
-                  <a href="mailto:example@gmail.com">example1@gmail.com</a>
+                  <a href="mailto:example@gmail.com">Admin@thegql.com</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-map-location"></i>
                   <strong>Address</strong>
-                  <p>USA Transaport Company</p>
+                  <p>Stockton CA, 95219</p>
                 </li>
                 <li>
                   <i class="fa-solid fa-clock"></i>
@@ -332,7 +333,7 @@
       <div class="footer-bottom text-center">
         <div class="container">
           <div class="copyright-text">
-            <p>© Copyright 2024 by <a href="index.html">GQL</a></p>
+            <p>© Copyright 2024 by <a href="/">GQL</a></p>
           </div>
         </div>
       </div>

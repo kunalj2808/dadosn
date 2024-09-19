@@ -9,7 +9,7 @@
       href="./assets/img/logo/logo-icon.png"
       type="image/x-icon"
     />
-    <title>logixs - transport & logistics</title>
+    <title>GQL - transport & logistics</title>
     <!-- font-awesome/6.2.1  -->
     <link
       rel="stylesheet"
@@ -37,12 +37,13 @@
     <!-- navbar section start -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="index.html">
-          <img
+        <a class="navbar-brand" href="/">
+          <img class="img-fluid" src="./assets/img/logo/logo3.png" alt="" />
+          {{-- <img
             src="./assets/img/logo/logo-bg1.png"
-            alt="logixs - transport & logistics"
-            title="logixs - transport & logistics"
-          />
+            alt="GQL - transport & logistics"
+            title="GQL - transport & logistics"
+          /> --}}
         </a>
         <button
           class="navbar-toggler"
@@ -81,7 +82,7 @@
           <h1>About Us</h1>
           <nav style="--bs-breadcrumb-divider: '>'" aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+              <li class="breadcrumb-item"><a href="/">Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">
                 Library
               </li>
@@ -106,10 +107,11 @@
                 <i class="fa-solid fa-plane"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Air Freight</h5>
+                <h5 class="card-title fw-bold">SUPPLY CHAIN MNGT</h5>
                 <p class="card-text mt-4">
-                  Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                  elit sed do eiusmod.
+                  Dadson logistic provides our client with<br>
+                  customized and end to end logistic<br>
+                   solutions and services
                 </p>
               </div>
               <div class="img-box">
@@ -134,10 +136,11 @@
                 <i class="fa-solid fa-ship"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Ocean Freight</h5>
+                <h5 class="card-title">ROAD TRANSPORT</h5>
                 <p class="card-text mt-4">
-                  Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                  elit sed do eiusmod.
+                  through our fleet of over 1,000 trucks<br>
+                  and trailers,we can deliver<br>
+                   transporation across the country
                 </p>
               </div>
               <div class="img-box">
@@ -166,10 +169,10 @@
                 <i class="fa-solid fa-truck"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Road Transport</h5>
+                <h5 class="card-title">WAREHOUSE STORAGE</h5>
                 <p class="card-text mt-4">
-                  Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                  elit sed do eiusmod.
+                  we provide ware house services to client<br> as a standalone service as well as part of<br> our integrated logistic solutions.
+
                 </p>
               </div>
               <div class="img-box">
@@ -209,7 +212,7 @@
             >
               <div class="about-info p-5">
                 <div class="sec-title">
-                  <h3 class="sub-title">WELCOME TO LOGIXS</h3>
+                  <h3 class="sub-title">WELCOME TO GQL</h3>
                   <h2>Providing full range of transportation</h2>
                 </div>
 
@@ -222,7 +225,7 @@
                 <blockquote class="blockquote mb-4">
                   <p>
                     You can simplifying your freight & logistics needs with a
-                    personal approach on logixs company.
+                    personal approach on GQL company.
                   </p>
                 </blockquote>
 
@@ -861,17 +864,17 @@
                 <li>
                   <i class="fa-solid fa-square-phone-flip"></i>
                   <strong>Phone</strong>
-                  <a href="tel:+9999999999">+9999999999</a>
+                  <a href="tel:+9999999999">+1 (350) 217-2291</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-envelope"></i>
                   <strong>Email</strong>
-                  <a href="example@gmail.com">example@gmail.com</a>
+                  <a href="example@gmail.com">Admin@thegql.com</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-map-location"></i>
                   <strong>Address</strong>
-                  <p>USA Transport Company</p>
+                  <p>Stockton CA, 95219</p>
                 </li>
                 <li>
                   <i class="fa-solid fa-clock"></i>
@@ -887,7 +890,7 @@
       <div class="footer-bottom text-center">
         <div class="container">
           <div class="copyright-text">
-            <p>© Copyright 2024 by <a href="index.html">GQL</a></p>
+            <p>© Copyright 2024 by <a href="/">GQL</a></p>
           </div>
         </div>
       </div>

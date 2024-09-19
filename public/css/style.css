@@ -117,7 +117,15 @@ img {
 
 /* navbar  */
 .navbar {
+  height: 70px;
+ 
   z-index: 99999999999999999999999;
+}
+
+.navbar-brand {
+  /* padding-top:-80px; */
+ width:200px;
+
 }
 /* carousel  */
 .carousel-bg {
