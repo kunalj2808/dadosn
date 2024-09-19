@@ -274,8 +274,8 @@
                 class="about-expert-info text-white px-3 wow fadeInLeft animated"
                 style="visibility: visible; animation-name: fadeInLeft"
               >
-                <h2 class="fs-1">30</h2>
-                <p class="fs-4">Years of work experience</p>
+              <h2 class="fs-1">20+</h2>
+              <p class="fs-4">WORLD AWARDS</p>
               </div>
               <div
                 class="about-banner-img shadow d-none d-md-block wow fadeInRight animated"
@@ -459,9 +459,9 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter">145</span>
+                  <span id="">100+</span>
                 </div>
-                <h4>Branches Across The World</h4>
+                <h4>BEST EMPLOYEES</h4>
               </div>
             </div>
             <!-- single item end -->
@@ -482,9 +482,9 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter2">26</span><span>K</span>
+                  <span id="">1000</span><span>+</span>
                 </div>
-                <h4>Parcel Delivered by Riders</h4>
+                <h4>PROJECT COMPLETE</h4>
               </div>
             </div>
             <!-- single item end -->
@@ -505,9 +505,9 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter3">78</span><span>K</span>
+                  <span id="">350</span><span>+</span>
                 </div>
-                <h4>Tons of Products Transport</h4>
+                <h4>WORLDWIDE CLIENTS</h4>
               </div>
             </div>
             <!-- single item end -->
@@ -519,8 +519,7 @@
     <!-- projects section start -->
     <section class="project-area py-5">
       <div class="sec-title text-center w-50 mx-auto my-5">
-        <h3 class="sub-title">CHECK OUR WORK</h3>
-        <h2 class="">Explore recent projects</h2>
+        <h2 class="">WHY CHOOSE US</h2>
       </div>
       <div class="container-fluid">
         <!-- Swiper -->
@@ -542,9 +541,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 01</span>
+                     
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">TIA</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>
@@ -571,9 +570,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 02</span>
+                     
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">BBB TRUSTED</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>
@@ -600,9 +599,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 03</span>
+                      
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">DUNS & BADSTREET</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>
@@ -629,9 +628,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 04</span>
+                     
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">DOT CERTIFIED</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>

@@ -37,7 +37,7 @@
     <!-- navbar section start -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="index">
+        <a class="navbar-brand" href="/">
           <img class="img-fluid" src="./assets/img/logo/logo3.png" alt="" />
           {{-- <img
             src="./assets/img/logo/logo-bg1.png"
@@ -91,7 +91,7 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-              GQL are Global <br />Logistics Partners
+              GQL is Global <br />Logistics Partners
             </h2>
             <p
               class="wow fadeInUp"
@@ -102,8 +102,7 @@
                 animation-name: fadeInUp;
               "
             >
-              There are many of passages of lorem Ipsum, but the majori <br />
-              have suffered alteration in some form.
+              Efficient delivery solutions ensuring timely and safe transportation of goods.
             </p>
             <button
               class="btn primary-btn wow fadeInLeft"
@@ -127,7 +126,7 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-              GQL are Global <br />Logistics Partners
+             SERICES OUR PRIORITY  <br />
             </h2>
             <p
               class="wow fadeInUp"
@@ -138,8 +137,7 @@
                 animation-name: fadeInUp;
               "
             >
-              There are many of passages of lorem Ipsum, but the majori <br />
-              have suffered alteration in some form.
+            2000000+ Shipments / trusted by 1000+ customers.
             </p>
             <button
               class="btn primary-btn wow fadeInLeft"
@@ -163,7 +161,8 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-              GQL are Global <br />Logistics Partners
+            We Enhance Your
+             <br />Logistics Needs
             </h2>
             <p
               class="wow fadeInUp"
@@ -174,8 +173,7 @@
                 animation-name: fadeInUp;
               "
             >
-              There are many of passages of lorem Ipsum, but the majori <br />
-              have suffered alteration in some form.
+            We don't have to figure it alone, Let us explore Logistic Services together
             </p>
             <button
               class="btn primary-btn wow fadeInLeft"
@@ -363,8 +361,8 @@
           <div class="col-md-6 order-1">
             <div class="about-banner">
               <div class="about-expert-info text-white px-3">
-                <h2 class="fs-1">30</h2>
-                <p class="fs-4">Years of work experience</p>
+                <h2 class="fs-1">20+</h2>
+                <p class="fs-4">WORLD AWARDS</p>
               </div>
               <div class="about-banner-img shadow d-none d-md-block">
                 <img
@@ -385,9 +383,8 @@
         <div class="sec-title text-center">
           <h3 class="sub-title">HOW WE WORK</h3>
           <h2>
-            We aim to contribute well to
-            <br />
-            your company
+           OUR SERVICES
+            
           </h2>
         </div>
 
@@ -403,10 +400,9 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Replenishment and Picking</h4>
+                  <h4>DRAYAGE</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    As a freight forwarder, are you frustrated with the hassles of relying on freight brokers for your logistics needs? Inconsistent rates, delivery setbacks, and lack of transparency can complicate your operations.
                   </p>
                 </div>
                 <a href="#" class="work-btn">
@@ -435,10 +431,9 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Warehousing Operation</h4>
+                  <h4>OTR</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    What if you could simplify the process? Our team provides Drayage, Warehousing, Trans-loading, and OTR services, prioritizing streamlined operations and transparent communication for seamless logistics.
                   </p>
                 </div>
                 <a href="#" class="work-btn">
@@ -467,10 +462,9 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Packaging and Distribution</h4>
+                  <h4>WAREHOUSING</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    We ensure your cargo stays safe, properly tracked, and meticulously managed with our strategic solutions. Our network of warehouses across India offers flexible storage capacities to meet all your logistics needs.
                   </p>
                 </div>
                 <a href="#" class="work-btn">
@@ -499,10 +493,11 @@
                   <div class="work-card-icon">
                     <i class="fa-solid fa-box"></i>
                   </div>
-                  <h4>Transportation Process</h4>
+                  <h4>TRANSLOADING</h4>
                   <p>
-                    Dolores molestias excepturi occaecati cupiditated non
-                    provident quas.
+                    Transloading is the process of moving goods between different transportation methods during their journey, ensuring efficient transfer and timely delivery to their final destination.
+                    <br>
+                    .
                   </p>
                 </div>
                 <a href="#" class="work-btn">
@@ -525,7 +520,7 @@
       <div class="sec-bg py-5">
         <div class="sec-title text-center mt-5">
           <h2 class="text-white fw-bold">
-            Hundreds of customers
+           so many customers
             <br />
             trust our company
           </h2>
@@ -542,9 +537,9 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter">145</span>
+                  <span id="counter">100+</span>
                 </div>
-                <h4>Branches Across The World</h4>
+                <h4>BEST EMPLOYEES</h4>
               </div>
             </div>
             <!-- single item end -->
@@ -557,9 +552,9 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter2">26</span><span>K</span>
+                  <span id="counter2">1000+</span>
                 </div>
-                <h4>Parcel Delivered by Riders</h4>
+                <h4>PROJECT COMPLETE                </h4>
               </div>
             </div>
             <!-- single item end -->
@@ -572,9 +567,9 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter3">78</span><span>K</span>
+                  <span id="counter3">350+</span>
                 </div>
-                <h4>Tons of Products Transport</h4>
+                <h4>WORLDWIDE CLIENTS</h4>
               </div>
             </div>
             <!-- single item end -->
@@ -586,8 +581,7 @@
     <!-- projects section start -->
     <section class="project-area py-5">
       <div class="sec-title text-center w-50 mx-auto my-5">
-        <h3 class="sub-title">CHECK OUR WORK</h3>
-        <h2 class="">Explore recent projects</h2>
+        <h2 class="">WHY CHOOSE US</h2>
       </div>
       <div class="container-fluid">
         <!-- Swiper -->
@@ -609,9 +603,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 01</span>
+                     
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">TIA</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>
@@ -638,9 +632,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 02</span>
+                     
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">BBB TRUSTED</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>
@@ -667,9 +661,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 03</span>
+                      
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">DUNS & BADSTREET</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>
@@ -696,9 +690,9 @@
                   </div>
                   <div class="content-box">
                     <div class="inner">
-                      <span class="title">Project 04</span>
+                     
                       <h4>
-                        <a href="#">Shipment Monitoring</a>
+                        <a href="#">DOT CERTIFIED</a>
                       </h4>
                       <a href="#" class="icon">
                         <i class="fa-solid fa-arrow-right"></i>
@@ -871,7 +865,7 @@
     </section>
     <!-- team Section end -->
     <!-- faqs Section start -->
-    <section class="faqs py-5">
+    {{-- <section class="faqs py-5">
       <div class="container py-5">
         <div class="row">
           <div class="col-md-7">
@@ -997,7 +991,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> --}}
     <!-- faqs Section end -->
     <!-- quote Section start -->
     <section class="container py-5">

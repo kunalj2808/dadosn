@@ -180,9 +180,7 @@
                 <h2>Get in touch with us</h2>
               </div>
               <p>
-                Lorem ipsum is simply free text available dolor sit amet,
-                consectetur notted adipisicing elit sed do eiusmod tempor
-                incididunt simply free ut labore et dolore magna aliqua.
+                GQL Logistics is one of the leading logistics companies that offer affordable and accessible trucking solutions for all customers. With our years of experience, we have served many businesses to deliver their goods timely and safely to their end destination.
               </p>
               <ul class="contact-touch-list">
                 <li>
@@ -191,7 +189,7 @@
                   </div>
                   <div class="text">
                     <h6>Phone</h6>
-                    <a href="tel:+99999999">+999999999</a>
+                    <a href="tel:+99999999">+1 (350) 217-2291</a>
                   </div>
                 </li>
                 <li>
@@ -200,8 +198,8 @@
                   </div>
                   <div class="text">
                     <h6>Email</h6>
-                    <a href="mailto:example@gmail.com"
-                      >example@gmail.com</a
+                    <a href="mailto:Admin@thegql.com"
+                      >Admin@thegql.com</a
                     >
                   </div>
                 </li>
@@ -211,7 +209,7 @@
                   </div>
                   <div class="text">
                     <h6>Address</h6>
-                    <p>USA Transport company</p>
+                    <p>Stockton CA, 95219</p>
                   </div>
                 </li>
               </ul>
@@ -224,12 +222,13 @@
     <!--map start-->
     <section class="location">
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7310.878223466114!2d90.49464321255248!3d23.6244404236369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b10941d09f3f%3A0x9e53c62023606a5!2sChashara%2C%20Narayanganj!5e0!3m2!1sen!2sbd!4v1672657945303!5m2!1sen!2sbd"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d201230.16698648728!2d-121.64876099273425!3d37.9952969541548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809000a7f971fc45%3A0xb10e46a9bf6dc765!2sStockton%2C%20CA%2095219%2C%20USA!5e0!3m2!1sen!2sin!4v1726764439860!5m2!1sen!2sin"
         style="border: 0"
         allowfullscreen=""
         loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"
       ></iframe>
+  
     </section>
     <!--map end-->
     <!-- footer Section start -->
@@ -312,7 +311,7 @@
                 <li>
                   <i class="fa-solid fa-envelope"></i>
                   <strong>Email</strong>
-                  <a href="mailto:example@gmail.com">Admin@thegql.com</a>
+                  <a href="mailto:Admin@thegql.com">Admin@thegql.com</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-map-location"></i>
