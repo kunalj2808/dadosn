@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="shortcut icon"
-      href="./assets/img/logo/logo-icon.png"
+      href="./assets/img/logo/logo34.png"
       type="image/x-icon"
     />
     <title>GQL - transport & logistics</title>
@@ -196,15 +196,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 order-2">
-            <div
-              class="about-content wow fadeInRight animated"
-              data-wow-delay="600ms"
-              style="
-                visibility: visible;
-                animation-delay: 600ms;
-                animation-name: fadeInRight;
-              "
-            >
+            <div class="about-content">
               <div class="about-info p-5">
                 <div class="sec-title">
                   <h3 class="sub-title">WELCOME TO GQL</h3>
@@ -212,15 +204,11 @@
                 </div>
 
                 <p class="mb-3">
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
-                  The point of using Lorem Ipsum is that it has a more-or-less
-                  normal distribution
+                  Competently implement efficient e-commerce without cross-unit growth strategies. 
                 </p>
                 <blockquote class="blockquote mb-4">
                   <p>
-                    You can simplifying your freight & logistics needs with a
-                    personal approach on GQL company.
+                   Streamline your freight and logistics needs with GQL, offering a personalized approach to ensure efficient and reliable service
                   </p>
                 </blockquote>
 
@@ -265,17 +253,11 @@
           </div>
           <div class="col-md-6 order-1">
             <div class="about-banner">
-              <div
-                class="about-expert-info text-white px-3 wow fadeInLeft animated"
-                style="visibility: visible; animation-name: fadeInLeft"
-              >
-              <h2 class="fs-1">20+</h2>
-              <p class="fs-4">WORLD AWARDS</p>
+              <div class="about-expert-info text-white px-3">
+                <h2 class="fs-1">24/7</h2>
+                <p class="fs-4">Services</p>
               </div>
-              <div
-                class="about-banner-img shadow d-none d-md-block wow fadeInRight animated"
-                style="visibility: visible; animation-name: fadeInRight"
-              >
+              <div class="about-banner-img shadow d-none d-md-block">
                 <img
                   class="img-fluid"
                   src="./assets/img/about/about-2.jpg"
@@ -292,7 +274,7 @@
     <section class="work-area pt-5">
       <div class="container">
         <div class="sec-title text-center">
-          <h3 class="sub-title">HOW WE WORK</h3>
+          <h3 class="sub-title"> </h3>
           <h2>
            OUR SERVICES
             
@@ -411,10 +393,8 @@
       <div class="sec-bg py-5">
         <div class="sec-title text-center mt-5">
           <h2 class="text-white fw-bold">
-           so many customers
-            <br />
-            trust our company
-          </h2>
+            Let us take care of
+            <br> your logistics needs.
         </div>
       </div>
       <div class="container fact-counter">
@@ -428,7 +408,7 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="">500+</span>
+                  <span id="">1000+</span>
                 </div>
                 <h4>PROJECTS COMPLETED                </h4>
               </div>

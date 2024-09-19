@@ -117,14 +117,14 @@ img {
 
 /* navbar  */
 .navbar {
-  height: 70px;
+  height: 80px;
  
   z-index: 99999999999999999999999;
 }
 
 .navbar-brand {
   /* padding-top:-80px; */
- width:200px;
+ width:260px;
 
 }
 /* carousel  */
@@ -904,11 +904,11 @@ img {
 .quote-youtube-btn i {
   color: var(--bg-theme-color2);
 }
-.quote .logo-icon {
+.quote .logo34 {
   display: block;
   margin-bottom: 10px;
 }
-.quote .logo-icon img {
+.quote .logo34 img {
   display: inline-block;
   max-width: 100%;
   height: auto;

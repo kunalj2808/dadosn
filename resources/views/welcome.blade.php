@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="shortcut icon"
-      href="./assets/img/logo/logo-icon.png"
+      href="./assets/img/logo/logo34.png"
       type="image/x-icon"
     />
     <title>GQL - transport & logistics</title>
@@ -127,7 +127,7 @@
                 animation-name: fadeInUp;
               "
             >
-            200000+ Shipments / trusted by 350+ customers.
+            20000+ Shipments / trusted by 350+ customers.
             </p>
            
           </div>
@@ -270,15 +270,11 @@
                 </div>
 
                 <p class="mb-3">
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
-                  The point of using Lorem Ipsum is that it has a more-or-less
-                  normal distribution
+                  Competently implement efficient e-commerce without cross-unit growth strategies. 
                 </p>
                 <blockquote class="blockquote mb-4">
                   <p>
-                    You can simplifying your freight & logistics needs with a
-                    personal approach on GQL company.
+                   Streamline your freight and logistics needs with GQL, offering a personalized approach to ensure efficient and reliable service
                   </p>
                 </blockquote>
 
@@ -324,8 +320,8 @@
           <div class="col-md-6 order-1">
             <div class="about-banner">
               <div class="about-expert-info text-white px-3">
-                <h2 class="fs-1">20+</h2>
-                <p class="fs-4">WORLD AWARDS</p>
+                <h2 class="fs-1">24/7</h2>
+                <p class="fs-4">Services</p>
               </div>
               <div class="about-banner-img shadow d-none d-md-block">
                 <img
@@ -344,7 +340,6 @@
     <section class="work-area pt-5">
       <div class="container">
         <div class="sec-title text-center">
-          <h3 class="sub-title">HOW WE WORK</h3>
           <h2>
            OUR SERVICES
             
@@ -463,10 +458,8 @@
       <div class="sec-bg py-5">
         <div class="sec-title text-center mt-5">
           <h2 class="text-white fw-bold">
-           so many customers
-            <br />
-            trust our company
-          </h2>
+            Let us take care of
+            <br> your logistics needs.
         </div>
       </div>
       <div class="container fact-counter">
@@ -480,7 +473,7 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="">500+</span>
+                  <span id="">1000+</span>
                 </div>
                 <h4>PROJECTS COMPLETED                </h4>
               </div>
@@ -1032,8 +1025,8 @@
                   </div>
                 </div>
               </div>
-              <div class="logo-icon">
-                <img src="./assets/img/logo/logo-icon.png" alt="" />
+              <div class="logo34">
+                <img src="./assets/img/logo/logo34.png" alt="" />
               </div>
               <p>5 Mins video</p>
               <h2>
