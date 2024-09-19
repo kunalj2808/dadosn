@@ -104,7 +104,7 @@
               style="visibility: visible; animation-name: fadeInUp"
             >
               <div class="card-icon">
-                <i class="fa-solid fa-plane"></i>
+                <i class="fa-solid fa-chain"></i>
               </div>
               <div class="card-body">
                 <h5 class="card-title fw-bold">SUPPLY CHAIN MNGT</h5>
@@ -114,13 +114,13 @@
                    solutions and services
                 </p>
               </div>
-              <div class="img-box">
+              {{-- <div class="img-box">
                 <img
                   src="./assets/img/service/top-service-1.jpg"
                   class="card-img-bottom"
                   alt="..."
                 />
-              </div>
+              </div> --}}
               <!-- single item end  -->
             </div>
           </div>
@@ -133,7 +133,7 @@
               style="visibility: visible; animation-name: fadeInUp"
             >
               <div class="card-icon">
-                <i class="fa-solid fa-ship"></i>
+                <i class="fa-solid fa-road"></i>
               </div>
               <div class="card-body">
                 <h5 class="card-title">ROAD TRANSPORT</h5>
@@ -143,13 +143,13 @@
                    transporation across the country
                 </p>
               </div>
-              <div class="img-box">
+              {{-- <div class="img-box">
                 <img
                   src="./assets/img/service/top-service-2.jpg"
                   class="card-img-bottom"
                   alt="..."
                 />
-              </div>
+              </div> --}}
             </div>
             <!-- single item end  -->
           </div>
@@ -166,7 +166,7 @@
               "
             >
               <div class="card-icon">
-                <i class="fa-solid fa-truck"></i>
+                <i class="fa-solid fa-store"></i>
               </div>
               <div class="card-body">
                 <h5 class="card-title">WAREHOUSE STORAGE</h5>
@@ -175,13 +175,13 @@
 
                 </p>
               </div>
-              <div class="img-box">
+              {{-- <div class="img-box">
                 <img
                   src="./assets/img/service/top-service-3.jpg"
                   class="card-img-bottom"
                   alt="..."
                 />
-              </div>
+              </div> --}}
             </div>
             <!-- single item end  -->
           </div>
