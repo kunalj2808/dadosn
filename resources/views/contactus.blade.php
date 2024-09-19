@@ -265,40 +265,10 @@
                   </button>
                 </div>
               </form>
-              <ul class="social-link">
-                <li>
-                  <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-square-facebook"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-pinterest"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                </li>
-              </ul>
+          
             </div>
             <div class="col-md-3 offset-lg-1">
-              <h5>Explore</h5>
-              <ul class="user-link">
-                <li>
-                  <a href="#">About Company</a>
-                </li>
-                <li>
-                  <a href="#">Pricing Plan</a>
-                </li>
-                <li>
-                  <a href="#">Request a Quote</a>
-                </li>
-                <li>
-                  <a href="#">Packaging</a>
-                </li>
-                <li>
-                  <a href="#">Contact</a>
-                </li>
-              </ul>
+             
             </div>
             <div class="col-md-4">
               <h5>Contact</h5>

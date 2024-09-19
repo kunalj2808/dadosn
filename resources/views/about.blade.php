@@ -109,7 +109,7 @@
               <div class="card-body">
                 <h5 class="card-title fw-bold">SUPPLY CHAIN MNGT</h5>
                 <p class="card-text mt-4">
-                  Dadson logistic provides our client with<br>
+                  GQL logistics provides our client with<br>
                   customized and end to end logistic<br>
                    solutions and services
                 </p>
@@ -171,7 +171,7 @@
               <div class="card-body">
                 <h5 class="card-title">WAREHOUSE STORAGE</h5>
                 <p class="card-text mt-4">
-                  we provide ware house services to client<br> as a standalone service as well as part of<br> our integrated logistic solutions.
+                  we provide ware house services to client<br> as a standalone service as well as part of<br> our integrated logistics solutions.
 
                 </p>
               </div>
@@ -187,11 +187,7 @@
           </div>
         </div>
         <div class="services-text">
-          <p class="text-center fw-bold">
-            You can also find our
-            <strong class="text-white"> Warehousing Solution </strong> to
-            logistics around the world
-          </p>
+         
         </div>
       </div>
     </div>
@@ -243,7 +239,7 @@
                     </ul>
                   </div>
                   <div class="col-12 col-md-5">
-                    <div class="youtube-btn">
+                    <div class="">
                       <img src="./assets/img/about/about-3.jpg" alt="" />
                       <div class="wrapper">
                         <div class="video-main">
@@ -323,12 +319,7 @@
                     provident quas.
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>01</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -355,12 +346,7 @@
                     provident quas.
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>02</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -387,12 +373,7 @@
                     provident quas.
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>03</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -419,12 +400,7 @@
                     provident quas.
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>04</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -439,73 +415,39 @@
       <div class="sec-bg py-5">
         <div class="sec-title text-center mt-5">
           <h2 class="text-white fw-bold">
-            Hundreds of customers
+           so many customers
             <br />
             trust our company
           </h2>
-          <button class="btn primary-btn mt-5">Get a free Quote</button>
         </div>
       </div>
       <div class="container fact-counter">
         <div class="row">
-          <div class="col-12 col-md-4">
+         
+          <div class="col-12 col-md-6">
             <!-- single item start -->
-            <div
-              class="fact-card wow fadeInUp animated"
-              style="visibility: visible; animation-name: fadeInUp"
-            >
-              <div class="fact-icon-card">
-                <img src="./assets/icons/funfact-1.png" alt="" />
-              </div>
-              <div class="fact-card-body">
-                <div class="cont-box">
-                  <span id="">100+</span>
-                </div>
-                <h4>BEST EMPLOYEES</h4>
-              </div>
-            </div>
-            <!-- single item end -->
-          </div>
-          <div class="col-12 col-md-4">
-            <!-- single item start -->
-            <div
-              class="fact-card wow fadeInUp animated"
-              data-wow-delay="400ms"
-              style="
-                visibility: visible;
-                animation-delay: 400ms;
-                animation-name: fadeInUp;
-              "
-            >
+            <div class="fact-card">
               <div class="fact-icon-card">
                 <img src="./assets/icons/funfact-2.png" alt="" />
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="">1000</span><span>+</span>
+                  <span id="">500+</span>
                 </div>
-                <h4>PROJECT COMPLETE</h4>
+                <h4>PROJECTS COMPLETED                </h4>
               </div>
             </div>
             <!-- single item end -->
           </div>
-          <div class="col-12 col-md-4">
+          <div class="col-12 col-md-6">
             <!-- single item start -->
-            <div
-              class="fact-card wow fadeInUp animated"
-              data-wow-delay="800ms"
-              style="
-                visibility: visible;
-                animation-delay: 800ms;
-                animation-name: fadeInUp;
-              "
-            >
+            <div class="fact-card">
               <div class="fact-icon-card">
                 <img src="./assets/icons/funfact-1.png" alt="" />
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="">350</span><span>+</span>
+                  <span id="">350+</span>
                 </div>
                 <h4>WORLDWIDE CLIENTS</h4>
               </div>
@@ -822,40 +764,10 @@
                   </button>
                 </div>
               </form>
-              <ul class="social-link">
-                <li>
-                  <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-square-facebook"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-pinterest"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                </li>
-              </ul>
+              
             </div>
             <div class="col-md-3 offset-lg-1">
-              <h5>Explore</h5>
-              <ul class="user-link">
-                <li>
-                  <a href="#">About Company</a>
-                </li>
-                <li>
-                  <a href="#">Pricing Plan</a>
-                </li>
-                <li>
-                  <a href="#">Request a Quote</a>
-                </li>
-                <li>
-                  <a href="#">Packaging</a>
-                </li>
-                <li>
-                  <a href="#">Contact</a>
-                </li>
-              </ul>
+              
             </div>
             <div class="col-md-4">
               <h5>Contact</h5>

@@ -91,7 +91,7 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-              GQL is Global <br />Logistics Partners
+              GQL is a Global <br />Logistics Partner
             </h2>
             <p
               class="wow fadeInUp"
@@ -104,17 +104,7 @@
             >
               Efficient delivery solutions ensuring timely and safe transportation of goods.
             </p>
-            <button
-              class="btn primary-btn wow fadeInLeft"
-              data-wow-delay="600ms"
-              style="
-                visibility: visible;
-                animation-delay: 600ms;
-                animation-name: fadeInLeft;
-              "
-            >
-              Discover more
-            </button>
+           
           </div>
         </div>
         <!-- single slid section end  -->
@@ -126,7 +116,7 @@
               class="display-1 fw-bold wow fadeInDown"
               style="visibility: visible; animation-name: fadeInDown"
             >
-             SERICES OUR PRIORITY  <br />
+             SERVICES OUR PRIORITY  <br />
             </h2>
             <p
               class="wow fadeInUp"
@@ -137,19 +127,9 @@
                 animation-name: fadeInUp;
               "
             >
-            2000000+ Shipments / trusted by 1000+ customers.
+            200000+ Shipments / trusted by 350+ customers.
             </p>
-            <button
-              class="btn primary-btn wow fadeInLeft"
-              data-wow-delay="600ms"
-              style="
-                visibility: visible;
-                animation-delay: 600ms;
-                animation-name: fadeInLeft;
-              "
-            >
-              Discover more
-            </button>
+           
           </div>
         </div>
         <!-- single slid section end  -->
@@ -173,19 +153,9 @@
                 animation-name: fadeInUp;
               "
             >
-            We don't have to figure it alone, Let us explore Logistic Services together
+            We don't have to figure it alone, Let us explore Logistics Services together
             </p>
-            <button
-              class="btn primary-btn wow fadeInLeft"
-              data-wow-delay="600ms"
-              style="
-                visibility: visible;
-                animation-delay: 600ms;
-                animation-name: fadeInLeft;
-              "
-            >
-              Discover more
-            </button>
+           
           </div>
         </div>
         <!-- single slid section end  -->
@@ -226,7 +196,7 @@
               <div class="card-body">
                 <h5 class="card-title fw-bold">SUPPLY CHAIN MNGT</h5>
                 <p class="card-text mt-4">
-                  Dadson logistic provides our client with<br>
+                  GQL logistics provides our client with<br>
                   customized and end to end logistic<br>
                    solutions and services
                 </p>
@@ -276,7 +246,7 @@
               <div class="card-body">
                 <h5 class="card-title">WAREHOUSE STORAGE</h5>
                 <p class="card-text mt-4">
-                 we provide ware house services to client<br> as a standalone service as well as part of<br> our integrated logistic solutions.
+                 we provide ware house services to client<br> as a standalone service as well as part of<br> our integrated logistics solutions.
                 </p>
               </div>
              
@@ -284,13 +254,7 @@
             <!-- single item end  -->
           </div>
         </div>
-        <div class="services-text">
-          <p class="text-center fw-bold">
-            You can also find our
-            <strong class="text-white"> Warehousing Solution </strong> to
-            logistics around the world
-          </p>
-        </div>
+        
       </div>
     </div>
     <!-- service section end -->
@@ -333,7 +297,7 @@
                     </ul>
                   </div>
                   <div class="col-12 col-md-5">
-                    <div class="youtube-btn">
+                    <div class="">
                       <img src="./assets/img/about/about-3.jpg" alt="" />
                       <div class="wrapper">
                         <div class="video-main">
@@ -405,12 +369,7 @@
                     As a freight forwarder, are you frustrated with the hassles of relying on freight brokers for your logistics needs? Inconsistent rates, delivery setbacks, and lack of transparency can complicate your operations.
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>01</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -436,12 +395,7 @@
                     What if you could simplify the process? Our team provides Drayage, Warehousing, Trans-loading, and OTR services, prioritizing streamlined operations and transparent communication for seamless logistics.
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>02</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -467,12 +421,7 @@
                     We ensure your cargo stays safe, properly tracked, and meticulously managed with our strategic solutions. Our network of warehouses across India offers flexible storage capacities to meet all your logistics needs.
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>03</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -500,12 +449,7 @@
                     .
                   </p>
                 </div>
-                <a href="#" class="work-btn">
-                  <span class="count">
-                    <span>04</span>
-                  </span>
-                  <span class="work-btn-title">more detail</span>
-                </a>
+               
               </div>
             </div>
             <!-- single item end  -->
@@ -524,27 +468,12 @@
             <br />
             trust our company
           </h2>
-          <button class="btn primary-btn mt-5">Get a free Quote</button>
         </div>
       </div>
       <div class="container fact-counter">
         <div class="row">
-          <div class="col-12 col-md-4">
-            <!-- single item start -->
-            <div class="fact-card">
-              <div class="fact-icon-card">
-                <img src="./assets/icons/funfact-1.png" alt="" />
-              </div>
-              <div class="fact-card-body">
-                <div class="cont-box">
-                  <span id="counter">100+</span>
-                </div>
-                <h4>BEST EMPLOYEES</h4>
-              </div>
-            </div>
-            <!-- single item end -->
-          </div>
-          <div class="col-12 col-md-4">
+         
+          <div class="col-12 col-md-6">
             <!-- single item start -->
             <div class="fact-card">
               <div class="fact-icon-card">
@@ -552,14 +481,14 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter2">1000+</span>
+                  <span id="">500+</span>
                 </div>
-                <h4>PROJECT COMPLETE                </h4>
+                <h4>PROJECTS COMPLETED                </h4>
               </div>
             </div>
             <!-- single item end -->
           </div>
-          <div class="col-12 col-md-4">
+          <div class="col-12 col-md-6">
             <!-- single item start -->
             <div class="fact-card">
               <div class="fact-icon-card">
@@ -567,7 +496,7 @@
               </div>
               <div class="fact-card-body">
                 <div class="cont-box">
-                  <span id="counter3">350+</span>
+                  <span id="">350+</span>
                 </div>
                 <h4>WORLDWIDE CLIENTS</h4>
               </div>
@@ -994,7 +923,7 @@
     </section> --}}
     <!-- faqs Section end -->
     <!-- quote Section start -->
-    <section class="container py-5">
+    {{-- <section class="container py-5">
       <div class="quote py-5">
         <div class="row">
           <div class="col-md-9">
@@ -1079,7 +1008,6 @@
                 </div>
 
                 <div class="col-12">
-                  <button class="btn primary-btn">Discover more</button>
                 </div>
               </form>
             </div>
@@ -1117,108 +1045,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> --}}
     <!-- quote Section end -->
     <!-- Client Section start -->
-    <section class="client py-5">
-      <div class="container py-5">
-        <div class="swiper client">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <!-- single card start  -->
-              <!-- <div class="client-box">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  <img
-                    src="./assets/img/clients/client.png"
-                    class="img-fluid"
-                    alt="..."
-                  />
-                </a>
-              </div> -->
-              <!-- single card end  -->
-            </div>
-            <div class="swiper-slide">
-              <!-- single card start  -->
-              <div class="client-box">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  <img
-                    src="./assets/img/clients/client.png"
-                    class="img-fluid"
-                    alt="..."
-                  />
-                </a>
-              </div>
-              <!-- single card end  -->
-            </div>
-            <div class="swiper-slide">
-              <!-- single card start  -->
-              <div class="client-box">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  <img
-                    src="./assets/img/clients/client.png"
-                    class="img-fluid"
-                    alt="..."
-                  />
-                </a>
-              </div>
-              <!-- single card end  -->
-            </div>
-            <div class="swiper-slide">
-              <!-- single card start  -->
-              <div class="client-box">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  <img
-                    src="./assets/img/clients/client.png"
-                    class="img-fluid"
-                    alt="..."
-                  />
-                </a>
-              </div>
-              <!-- single card end  -->
-            </div>
-            <div class="swiper-slide">
-              <!-- single card start  -->
-              <div class="client-box">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  <img
-                    src="./assets/img/clients/client.png"
-                    class="img-fluid"
-                    alt="..."
-                  />
-                </a>
-              </div>
-              <!-- single card end  -->
-            </div>
-            <div class="swiper-slide">
-              <!-- single card start  -->
-              <div class="client-box">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  <img
-                    src="./assets/img/clients/.png"
-                    class="img-fluid"
-                    alt="..."
-                  />
-                </a>
-              </div>
-              <!-- single card end  -->
-            </div>
-            <div class="swiper-slide">
-              <!-- single card start  -->
-              <div class="client-box">
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  <img
-                    src="./assets/img/clients/"
-                    class="img-fluid"
-                    alt="..."
-                  />
-                </a>
-              </div>
-              <!-- single card end  -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    
     <!-- Client Section end -->
     <!-- call-to-action Section start -->
     <section class="call-to-action">
@@ -1232,7 +1062,6 @@
               class="col-md-6 d-flex mt-5 mt-md-0 justify-content-sm-center justify-content-md-end align-items-center"
             >
               <div>
-                <button class="btn primary-btn">Discover more</button>
               </div>
             </div>
           </div>
@@ -1270,40 +1099,10 @@
                   </button>
                 </div>
               </form>
-              <ul class="social-link">
-                <li>
-                  <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-square-facebook"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-pinterest"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                </li>
-              </ul>
+             
             </div>
             <div class="col-md-3 offset-lg-1">
-              <h5>Explore</h5>
-              <ul class="user-link">
-                <li>
-                  <a href="#">About Company</a>
-                </li>
-                <li>
-                  <a href="#">Pricing Plan</a>
-                </li>
-                <li>
-                  <a href="#">Request a Quote</a>
-                </li>
-                <li>
-                  <a href="#">Packaging</a>
-                </li>
-                <li>
-                  <a href="#">Contact</a>
-                </li>
-              </ul>
+              
             </div>
             <div class="col-md-4">
               <h5>Contact</h5>
