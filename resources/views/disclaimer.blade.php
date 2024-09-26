@@ -89,7 +89,7 @@
                 <h2>Disclaimer</h2>
               </div>
               <p>
-                By providing my phone number to Great Quality Logistics, I consent and acknowledge that Great Quality Logistics may send text messages to my wireless phone number for purposes such as updates, notifications or any other communication. Message and data rates may apply. Message frequency may vary. You may opt out at any time by replying "STOP" to any text message.
+                By providing your phone number to Great Quality Logistics, you consent and acknowledge that Great Quality Logistics may send text messages to your wireless phone number for purposes such as updates, notifications or any other communication. Message and data rates may apply. Message frequency may vary. You may opt out at any time by replying "STOP" to any text message.
               </p>
           
             </div>
