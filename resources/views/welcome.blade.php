@@ -1072,8 +1072,18 @@
              
             </div>
             <div class="col-md-3 offset-lg-1">
+              <h5>Explore</h5>
+              <ul class="user-link">
+                <li>
+                  <a href="disclaimer">Disclaimer</a>
+                </li>
+                <li>
+                  <a href="privacy-policy">Privacy Policy</a>
+                </li>
               
+              </ul>
             </div>
+
             <div class="col-md-4">
               <h5>Contact</h5>
               <ul class="contact-list">

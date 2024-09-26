@@ -24,3 +24,9 @@ Route::get('about-us', function () {
 Route::get('contact-us', function () {
     return view('contactus');
 });
+Route::get('disclaimer', function () {
+    return view('disclaimer');
+});
+Route::get('privacy-policy', function () {
+    return view('privacy-policy');
+});
