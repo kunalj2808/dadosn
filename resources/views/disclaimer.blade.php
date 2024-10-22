@@ -86,10 +86,13 @@
           <div class="col-md-12">
             <div class="contact-touch">
               <div class="sec-title">
-                <h2>Disclaimer</h2>
+                <h2>SMS Disclaimer:</h2>
               </div>
               <p>
-                By providing your phone number to Great Quality Logistics, you consent and acknowledge that Great Quality Logistics may send text messages to your wireless phone number for purposes such as updates, notifications or any other communication. Message and data rates may apply. Message frequency may vary. You may opt out at any time by replying "STOP" to any text message.
+                By providing your phone number to “Great Quality Logistics, LLC”, you agree and acknowledge that “Great Quality Logistics, LLC” may send text messages to your wireless phone number for any purpose.
+              </p>
+              <p>
+                Message and data rates may apply. Message frequency will vary, and you will be able to Opt-out by replying “STOP”. For more information on how your data will be handled please visit PRIVACY POLICY.
               </p>
           
             </div>

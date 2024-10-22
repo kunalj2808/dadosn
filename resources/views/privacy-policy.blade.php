@@ -89,21 +89,9 @@
                 <h2>Privacy Policy</h2>
               </div>
               <p>
-                We collect information about you when you visit our site, use our services, or view our online advertisements. The information that we collect and store during normal use of the site is used to monitor use of the site and to help further development of our services. In general, you can visit Great Quality Logistics website on the Internet without telling us who you are or providing data that personally identifies you. Such use does not result in any personally identifiable data being collected or stored.
+                No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
               </p>
-              <h5>Privacy Statement</h5>
-             
-              <p>Protecting your privacy and ensuring that your personal data is held securely is very important to Great Quality Logistics. We want you to be confident that we are looking after your interests and that is why we have set out our information practices in this Privacy Statement.
-                <br>
-                <br>
-
-                We do not share your information with third parties, unless we need to share your information to provide service you have requested and we have asked for and obtained your explicit consent. The foregoing notwithstanding, if (1) disclosure was required by law, rule or regulation or was in response to a valid order of a court or authorized agency of government or other legal process and/or; (2) When we find your action on the website violates Great Quality Logistics terms and conditions or any of your usage guidelines for services.
-                <br>
-                <br>
-                
-                This Privacy Statement will apply when you use our website to discover more information about Great Quality Logistics . This Privacy Statement is applicable to data collected by Great Quality Logistics.</p>
-          
-            </div>
+          </div>
           </div>
         </div>
       </div>

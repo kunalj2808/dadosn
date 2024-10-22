@@ -216,6 +216,26 @@
             </div>
           </div>
         </div>
+        <div class="contact-touch">
+          <div class="sec-title">
+            <h2>SMS Disclaimer:</h2>
+          </div>
+          <p>
+            By providing your phone number to “Great Quality Logistics, LLC”, you agree and acknowledge that “Great Quality Logistics, LLC” may send text messages to your wireless phone number for any purpose.
+          </p>
+          <p>
+            Message and data rates may apply. Message frequency will vary, and you will be able to Opt-out by replying “STOP”. For more information on how your data will be handled please visit PRIVACY POLICY.
+          </p>
+      
+        </div>
+        <div class="contact-touch">
+          <div class="sec-title">
+            <h2>Privacy Policy</h2>
+          </div>
+          <p>
+            No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+          </p>
+      </div>
       </div>
     </section>
     <!--Contact Details end-->
