@@ -209,7 +209,7 @@
                   </div>
                   <div class="text">
                     <h6>Address</h6>
-                    <p>Stockton CA, 95219</p>
+                    <p>3233 Lance Drive Suite B, Stockton, CA 95205</p>
                   </div>
                 </li>
               </ul>
@@ -293,7 +293,7 @@
                 <li>
                   <i class="fa-solid fa-map-location"></i>
                   <strong>Address</strong>
-                  <p>Stockton CA, 95219</p>
+                  <p>3233 Lance Drive Suite B, Stockton, CA 95205</p>
                 </li>
                 
               </ul>
