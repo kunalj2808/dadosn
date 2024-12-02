@@ -209,7 +209,7 @@
                   </div>
                   <div class="text">
                     <h6>Address</h6>
-                    <p>3233 Lance Drive Suite B, Stockton, CA 95205</p>
+                    <p>10493 almanor circle,Stockton, CA, 95219</p>
                   </div>
                 </li>
               </ul>
@@ -293,7 +293,7 @@
                 <li>
                   <i class="fa-solid fa-map-location"></i>
                   <strong>Address</strong>
-                  <p>3233 Lance Drive Suite B, Stockton, CA 95205</p>
+                  <p>10493 almanor circle,Stockton, CA, 95219</p>
                 </li>
                 
               </ul>
